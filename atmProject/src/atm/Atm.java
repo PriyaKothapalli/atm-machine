@@ -32,7 +32,7 @@ public class Atm {
 		this.withdrawAmount = withdrawAmount;
 	}
 
-	// toString() - mthod returns the string repersentaion of the object.
+	// toString() - method returns the string repersentaion of the object.
 	//IF you print any object , java compiler.So overriding the toString(), method returns the desired output, 
 	// it can be the state of an object etc. depending on your implementation. 
 	@Override
